@@ -1,0 +1,49 @@
+
+#abc {
+    background-color: rgb(197, 224, 255);
+    height: 100%;
+    width: 100%;  
+}
+
+#abc1 {
+
+    height: 10%;
+    width: 100%;
+   
+}
+h1 {
+   text-align: center;
+}
+#abc2 {
+    background-color: rgb(153, 99, 204);
+    height: 50px;
+    width: 100%;
+    margin: auto;
+    padding: 8px;
+}
+button {
+    align-items: center;
+    color: rgb(142, 3, 170);
+    font-style: initial;
+ 
+
+}
+#abc3 {
+    height: 450px;
+    width: 100%;
+    align-items: center;
+}
+#abc4 {
+    background-color:  rgb(153, 99, 204);
+    height: 100%;
+    width: 100%;
+}
+#abc5 {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    
+}
+label {
+    font-size: 15px;
+}
